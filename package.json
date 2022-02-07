@@ -1,0 +1,23 @@
+{
+	"name": "pratcite-project",
+	"version": "1.0.0",
+	"description": "to master express 🤯",
+	"main": "server.js",
+	"scripts": {
+		"start": "nodemon server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"express",
+		"node",
+		"mongoose",
+		"mongodb"
+	],
+	"author": "rinokapaapi",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.19.1",
+		"express": "^4.17.2",
+		"mongoose": "^6.2.0"
+	}
+}
